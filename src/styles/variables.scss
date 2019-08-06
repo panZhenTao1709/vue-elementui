@@ -1,0 +1,35 @@
+//通过sass实现版面皮肤切换功能
+
+
+//sidebar
+$menuBg:#304156;
+$subMenuBg:#303133;
+$menuHover:rbg(46,43,41);
+$menuWrapBg:#3a3633;
+$textColor:#bfcbd9;
+$activeTextColor:#fff;
+
+
+// navbar 
+$navbarbg:#304156;
+$navbarColor:#fff;
+
+
+
+// tagsView
+$tagsviewBg:#304156;
+$tagsviewColor:#ffff;
+
+
+
+:export {
+  menuBg: $menuBg;
+  subMenuBg: $subMenuBg;
+  menuWrapBg: $menuWrapBg;
+  navbarbg: $navbarbg;
+  navbarColor: $navbarColor;
+  tagsviewBg: $tagsviewBg;
+  tagsviewColor: $tagsviewColor;
+  textColor:$textColor;
+  activeTextColor:$activeTextColor;
+}

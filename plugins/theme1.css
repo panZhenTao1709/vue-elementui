@@ -1,0 +1,53 @@
+.switch-company{
+  margin-top:-3px!important;
+}
+.el-breadcrumb{
+  height: 100%!important;
+}
+html{
+  background-color: #f3f3f3
+}
+.el-breadcrumb span{
+  height: 100%!important;
+  line-height: 40px!important
+}
+.el-menu-item:hover{
+  color:#fff!important;
+  background: #303133!important
+}
+.el-submenu .el-menu-item{
+  height:45px!important;
+  line-height:45px!important
+}
+.el-menu-item .is-active{
+  background-color:rgb(58, 54, 51)!important;
+}
+.el-submenu__title{
+  background-color:rgb(58, 54, 51)!important;
+}
+.el-submenu__title:hover{
+  color:#fff!important;
+  background: #303133!important
+}
+.app-main{
+  min-height: calc(100vh - 115px)!important;
+  background-color: #f3f3f3!important;
+}
+.project-selector{
+  color:#606266
+}
+#app .main-container{
+  padding-top:37px!important
+}
+#app .sidebar-container{
+  background-color:rgb(58, 54, 51)!important;
+}
+.sidebar-container .el-scrollbar__view fixsidebar{
+  background-color:rgb(58, 54, 51)!important;
+}
+.el-menu{
+  background-color:rgb(58, 54, 51)!important;
+}
+.el-menu{
+  background:none!important
+}

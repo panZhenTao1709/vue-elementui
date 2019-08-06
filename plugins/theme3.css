@@ -1,0 +1,107 @@
+.header{
+  background: #22262E!important
+}
+.switch-company{
+  background:#FB3C4A!important;
+  margin-top:-3px!important;
+}
+.header-search{
+  margin-top:-3px!important
+}
+.rightPanel-container .handle-button{
+  background: #22262E!important;
+}
+.navbar{
+  background:#E6E6E6!important
+}
+.right-menu-item{
+  color:#C5C6CA!important
+}
+.screenfull-svg{
+  fill:#C5C6CA!important
+}
+.no-redirect{
+  color:#868686!important
+}
+.el-breadcrumb{
+  height: 100%!important;
+}
+.el-breadcrumb span{
+  height: 100%!important;
+  line-height: 40px!important
+}
+.el-menu-item{
+  line-height: 50px!important;
+}
+.menu-wrapper .svg-icon{
+  width: 0.8em!important;
+  height: 0.8em!important;
+}
+.el-submenu__title{
+  background: linear-gradient(to bottom,#f9f9f9,#f2f2f2)!important;
+  color:#444!important;
+  border-bottom:1px solid #DFDFDF;
+}
+.el-menu-item{
+  background: linear-gradient(to bottom,#f9f9f9,#f2f2f2)!important;
+  color:#444!important;
+  border-bottom:1px solid #DFDFDF;
+}
+#app .sidebar-container .menu-wrapper .is-active > .el-submenu__title{
+  color:#444!important;
+}
+.router-link-active{
+  font-weight: 700!important;
+}
+#app .sidebar-container .menu-wrapper .el-submenu .el-menu-item:hover{
+  color:#444!important;
+  font-weight: 700;
+}
+.el-submenu.is-active .el-submenu__title{
+  border-bottom-color:#22262E!important;
+}
+.sidebar-container{
+  background: #f2f2f2!important;
+  padding-top: 40px!important;
+}
+.wrapper{
+  background: #F2F2F2!important
+}
+.el-submenu__title:hover,.el-menu-item:hover{
+  color:#000!important;
+  background:#E6E6E6!important
+}
+.el-menu{
+  background:none!important
+}
+.main-container{
+  border-left:2px solid #a8a8a8
+}
+.el-scrollbar__view .active{
+  background-color: #13ce66!important;
+  color:#fff;
+  border-color: #13ce66!important;
+}
+.app-main{
+  min-height: calc(100vh - 115px)!important
+}
+#app .sidebar-container{
+  border-right:2px solid #a8a8a8
+}
+body #app .main-container{
+  margin-left:218px
+}
+body #app .hideSidebar 
+  .sidebar-container {
+    width: 38px !important;
+  }
+  .app-main{
+    width:98%!important
+  }
+  .scroll-container{
+    width:98%!important
+  }
+  #app .main-container{
+    padding-top:37px!important
+  }
+  

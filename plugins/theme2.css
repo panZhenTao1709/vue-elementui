@@ -1,0 +1,65 @@
+.header{
+  background: #22262E!important
+}
+.switch-company{
+  background:#FB3C4A!important;
+  margin-top:-3px!important;
+}
+.header-search{
+  margin-top:-3px!important
+}
+.handle-button{
+  background: #22262E!important
+}
+.navbar{
+  background:#E6E6E6!important
+}
+.right-menu-item{
+  color:#FB3C4A!important
+}
+.router-link-active,.el-submenu__title,.el-menu-item,#app .sidebar-container,#app .wrapper{
+  background:#22262E!important
+}
+.screenfull-svg{
+  fill:#FB3C4A!important
+}
+.el-submenu .el-menu-item{
+  height: 60px!important;
+}
+.no-redirect{
+  color:#868686!important
+}
+.el-breadcrumb{
+  height: 100%!important;
+}
+.el-breadcrumb span{
+  height: 100%!important;
+  line-height: 40px!important
+}
+.el-menu-item{
+  line-height: 60px!important
+}
+.menu-wrapper .svg-icon{
+  width: 1.2em!important;
+  height: 1.2em!important;
+}
+.el-submenu__title:hover,.el-menu-item:hover{
+  color:#fff!important;
+  background:#474544!important
+}
+.el-scrollbar__view .active{
+  background-color: #474544!important;
+  color:#fff;
+  border-color: #474544!important;
+}
+.app-main{
+  min-height: calc(100vh - 115px)!important
+}
+#app .main-container{
+  padding-top:37px!important
+}
+.el-menu{
+  background: #22262E!important
+}
+
+
